@@ -1,7 +1,9 @@
 ## 👋 Ola, me chamo Clayton Roberto.
-- 👀 Estou me aperfeiçoando em cloud computing.
+- Signo - ΞSCΩRPΦΩ
+- 👀 Estou aperfeiçoando meus conhecimentos com as tecnologias que se integram com cloud computing.
 - 🌱 Estou estudando aws, kubernetes, docker, git, rancher, terraform.
 - Ja possuo vivência com serviços aws.
+- 
 - 📫 Onde me encontrar?   
 
 <a href="https://www.linkedin.com/in/claytonroberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
