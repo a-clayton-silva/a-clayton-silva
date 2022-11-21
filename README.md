@@ -27,3 +27,4 @@
   
   ##
 
+   ![Snake animation](https://github.com/a-clayton-silva/a-clayton-silva/blob/output/github-contribution-grid-snake.svg)
