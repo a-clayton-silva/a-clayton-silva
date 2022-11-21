@@ -7,13 +7,14 @@
 <div align="left">
   <a href="https://github.com/a-clayton-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-clayton-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
+   
 </div>
 
- 📫 Onde me encontrar?   
 
+ 📫 Onde me encontrar?   
 <a href="https://www.linkedin.com/in/claytonroberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+ 
 ## CERTIFICAÇÕES
 <div style="display: inline_block"><br>
   
