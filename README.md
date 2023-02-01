@@ -18,7 +18,7 @@
 ## CERTIFICAÇÕES
 <div style="display: inline_block"><br>
   
-   <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
+   <img align="center" alt="Rafa-HTML" height="100" width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
  
   <img align="center" alt="Rafa-React" height="60" width="90" src="https://blog.softexpert.com/wp-content/uploads/2016/03/cobit_itil.jpg">
  
