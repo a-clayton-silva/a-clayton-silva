@@ -20,7 +20,7 @@
   
    <img align="center" alt="Rafa-HTML" height="100" width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
  
-  <img align="center" alt="Rafa-React" height="100" width="100" src="https://gaea.com.br/wp-content/uploads/2014/05/cobit-itil.jpg">
+  <img align="center" alt="Rafa-React" height="200" width="100" src="https://gaea.com.br/wp-content/uploads/2014/05/cobit-itil.jpg">
  
   <img align="center" alt="Rafa-CSS" height="100" width="100" src="https://preview.redd.it/34xzfc6qi8y41.png?width=800&format=png&auto=webp&s=637e5040c50292ddecdc8c184025113d6ca98381">
  <img align="center" alt="Rafa-Ts" height="100" width="100" src="https://i.pinimg.com/originals/eb/07/fd/eb07fd0b5194c9db5bd901fbd885b791.jpg">
