@@ -18,7 +18,7 @@
 ## CERTIFICAÇÕES
 <div style="display: inline_block"><br>
   
-   <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://www.kindpng.com/picc/m/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png">
+   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://www.kindpng.com/picc/m/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png">
  
   <img align="center" alt="Rafa-React" height="60" width="90" src="https://blog.softexpert.com/wp-content/uploads/2016/03/cobit_itil.jpg">
  
