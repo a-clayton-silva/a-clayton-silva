@@ -1,8 +1,7 @@
 ## ΞSCΩRPΦΩ
 👋 Ola, me chamo Clayton Roberto.
- Estou aperfeiçoando meus conhecimentos com as tecnologias que se integram com cloud computing.
- Estou estudando aws, kubernetes, docker, git, rancher, terraform.
- Ja possuo vivência com os principais serviços AWS.
+ Ja possuo experiência e vivência com os principais serviços AWS (EC2, RDS, VPC, VPN, IAM, ROUTE53, ELB, AutoScaling, AWS BACKUP, WAF. S3, EBS, EFS, CloudWatch, Well-Architected) e administração em Windows / Linux. Estou aperfeiçoando meus conhecimentos com as tecnologias que se integram com cloud computing. Estou estudando aws, kubernetes, docker, git, rancher, terraform, pipeline.
+ 
  
 <div align="left">
   <a href="https://github.com/a-clayton-silva">
