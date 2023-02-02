@@ -10,7 +10,7 @@
 </div>
 
 ## LINKEDIN
- 📫 Para visualizar meu curriculo, clique abaixo:   
+ 📫 Para visualizar meu curriculo, clique na figura abaixo:   
 <a href="https://www.linkedin.com/in/claytonroberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## CHATGPT
