@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/claytonroberto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## CHATGPT
-<a href="https://chat.openai.com/chat" target="_blank"><img src="https://tm.ibxk.com.br/2022/12/29/29143420959095.jpg?ims=1120x420" target="_blank"></a>
+<a href="https://chat.openai.com/chat" target="_blank"><img src="https://pbs.twimg.com/profile_images/1598924796372422656/nEcoIDXz_200x200.jpg" target="_blank"></a>
  
 ## CERTIFICAÇÕES
 <div style="display: inline_block"><br>
